@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tinyuliu/test-deploy/static/css/main.873772b0.chunk.css",
-    "main.js": "/tinyuliu/test-deploy/static/js/main.99dc9ddf.chunk.js",
-    "main.js.map": "/tinyuliu/test-deploy/static/js/main.99dc9ddf.chunk.js.map",
+    "main.js": "/tinyuliu/test-deploy/static/js/main.d96f6c28.chunk.js",
+    "main.js.map": "/tinyuliu/test-deploy/static/js/main.d96f6c28.chunk.js.map",
     "runtime-main.js": "/tinyuliu/test-deploy/static/js/runtime-main.75c99984.js",
     "runtime-main.js.map": "/tinyuliu/test-deploy/static/js/runtime-main.75c99984.js.map",
     "static/js/2.e7265af1.chunk.js": "/tinyuliu/test-deploy/static/js/2.e7265af1.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.75c99984.js",
     "static/js/2.e7265af1.chunk.js",
     "static/css/main.873772b0.chunk.css",
-    "static/js/main.99dc9ddf.chunk.js"
+    "static/js/main.d96f6c28.chunk.js"
   ]
 }
