@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tinyuliu/test-deploy/static/css/main.873772b0.chunk.css",
+    "main.js": "/tinyuliu/test-deploy/static/js/main.99dc9ddf.chunk.js",
+    "main.js.map": "/tinyuliu/test-deploy/static/js/main.99dc9ddf.chunk.js.map",
+    "runtime-main.js": "/tinyuliu/test-deploy/static/js/runtime-main.75c99984.js",
+    "runtime-main.js.map": "/tinyuliu/test-deploy/static/js/runtime-main.75c99984.js.map",
+    "static/js/2.e7265af1.chunk.js": "/tinyuliu/test-deploy/static/js/2.e7265af1.chunk.js",
+    "static/js/2.e7265af1.chunk.js.map": "/tinyuliu/test-deploy/static/js/2.e7265af1.chunk.js.map",
+    "static/js/3.cec04aa9.chunk.js": "/tinyuliu/test-deploy/static/js/3.cec04aa9.chunk.js",
+    "static/js/3.cec04aa9.chunk.js.map": "/tinyuliu/test-deploy/static/js/3.cec04aa9.chunk.js.map",
+    "index.html": "/tinyuliu/test-deploy/index.html",
+    "static/css/main.873772b0.chunk.css.map": "/tinyuliu/test-deploy/static/css/main.873772b0.chunk.css.map",
+    "static/js/2.e7265af1.chunk.js.LICENSE.txt": "/tinyuliu/test-deploy/static/js/2.e7265af1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75c99984.js",
+    "static/js/2.e7265af1.chunk.js",
+    "static/css/main.873772b0.chunk.css",
+    "static/js/main.99dc9ddf.chunk.js"
+  ]
+}
